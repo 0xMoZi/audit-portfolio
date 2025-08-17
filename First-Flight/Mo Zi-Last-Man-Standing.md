@@ -8,9 +8,8 @@
 - ## Medium Risk Findings
     - ### [M-01. Wrong require checks in `Game::claimThrone` function.](#M-01)
 - ## Low Risk Findings
-    - ### [L-01. Potential reentrancy in function Game::withdrawWinnings](#L-01)
-    - ### [L-02. Emiting zero prizeAmount/pot value when declare winner](#L-02)
-    - ### [L-03. Game::getContractBalance() May Return Unexpected Value](#L-03)
+    - ### [L-01. Emiting zero prizeAmount/pot value when declare winner](#L-01)
+    - ### [L-02. Game::getContractBalance() May Return Unexpected Value](#L-02)
 
 
 # <a id='contest-summary'></a>Contest Summary

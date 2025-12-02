@@ -20,4 +20,4 @@ This is my audit portfolio from contest i've been participated
 | First Flight                                                              | Description          | Findings | Rank | Report                                                                                                                      |
 | ------------------------------------------------------------------------- | -------------------- | -------- | ---- | ----------------------------------------------------------------------------------------------------------------------------- |
 | [#45: LastManStanding](https://codehawks.cyfrin.io/c/2025-07-last-man-standing)           | King Of Hill      | 1H 1M 2L | 33th | [:scroll:](./First-Flight/Mo%20Zi-Last-Man-Standing.md)
-| [#49: BidBeasts](https://codehawks.cyfrin.io/c/2025-09-bid-beasts)                        | NFT Marketplace   | 2H 1M 2L | 30th | [:scroll:](./First-Flight/Mo%20Zi-Bid-Beasts)
+| [#49: BidBeasts](https://codehawks.cyfrin.io/c/2025-09-bid-beasts)                        | NFT Marketplace   | 2H 1M 2L | 30th | [:scroll:](./First-Flight/Mo%20Zi-Bid-Beasts.md)

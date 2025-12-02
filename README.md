@@ -1,21 +1,25 @@
-# Audit-portfolio
+# Mo Zi
+Security Researcher | Smart Contract Auditor
+
 This is my audit portfolio from contest i've been participated
 
-## Public Contests
+## 📬 Socials
+- **X**: [@MoZi](https://x.com/MoZi_v1)  
+- **Public Audit Profile**: [Sherlock](https://audits.sherlock.xyz/watson/MoZi)
 
-### Sherlock
+---
 
-| Protocol                                                                      | Description         | Findings | Rank   | Report                                                                              |
-| ----------------------------------------------------------------------------- | ------------------- | -------- | ------ | ----------------------------------------------------------------------------------- | 
-| [Ammplify](https://audits.sherlock.xyz/contests/1054)  | AMM LP Amplifier |  1H | 49/518 | [:scroll:](https://audits.sherlock.xyz/watson/MoZi) |
+### ⚔️ Public Contests  
 
-### Code4rena
+| Contest            | Date     | Platform   | Category         | CodeSize | Findings | Report    |
+|--------------------|----------|------------|--------------------|----------|-----------|----------|
+| [Hybra Finance](https://code4rena.com/audits/2025-10-hybra-finance)  | Oct '25 | Code4rena | Liquidity layer for Hyperliquid | 3.846 nSLOC  | 1M | [:scroll:](https://code4rena.com/audits/2025-10-hybra-finance/submissions/S-432) |
+| [Ammplify](https://audits.sherlock.xyz/contests/1054)  | Sep '25 | Sherlock | AMM LP Amplifier | 2.949 nSLOC |1H | [:scroll:](https://audits.sherlock.xyz/watson/MoZi) |
 
-| Protocol                                                                      | Description         | Findings | Rank   | Report                                                                              |
-| ----------------------------------------------------------------------------- | ------------------- | -------- | ------ | ----------------------------------------------------------------------------------- | 
-| [Hybra Finance](https://code4rena.com/audits/2025-10-hybra-finance)  | Liquidity layer for Hyperliquid |  1M | 75/82 | [:scroll:](https://code4rena.com/audits/2025-10-hybra-finance/submissions/S-432) |
 
-## First Flight
+---
+
+## ✈️ First Flight
 
 | First Flight                                                              | Description          | Findings | Rank | Report                                                                                                                      |
 | ------------------------------------------------------------------------- | -------------------- | -------- | ---- | ----------------------------------------------------------------------------------------------------------------------------- |
